@@ -1,4 +1,4 @@
 # OSWR-Open-Source-World-Records-
 An Open Source World Record database
 
-  World Records are personal achievements that are earned through hard work and dedication. People who do what's never been done before deserve to be freely rewarded and recognized for their acomplishments. 
+  World Records are personal achievements that are earned through hard work and dedication. People who do what's never been done before deserve to be freely rewarded and recognized for their acomplishments. Many World Record holders are denied that right by a large corperation that holds a monopoly over the World Record industry. This for-profit company often requires no evidence beyond a single witness and a large stack of cash and they often publish outdated and out-right false information. Even with this behavior, most people won't recognize a world record not published by this company and often use their information as fact when it comes to World Records. THIS NEEDS TO CHANGE. This database aims to be a FREE AND FACTUAL database of Humanity's achievements.
